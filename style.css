@@ -1,0 +1,21 @@
+
+
+/* Application styles */
+#container {
+	width: 960px;
+	display: block;
+	margin: 0 auto;
+}
+.square {
+	background-color: red;
+	display: inline-block;
+	 margin-bottom: -6px;
+}
+.grid {
+	width: 480px;
+	display: block;
+	margin: 0 auto;
+}
+.colored {
+	background-color: black;
+}
